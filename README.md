@@ -1,7 +1,7 @@
 # esmaelcs3710asgnm1
 my nanme is Esmael Ali , I used ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x64-mingw-ucrt] and Rails 7.0.3.1 version
 
-Follow the following steps to run the file
+Follow the following steps to run the Application
 -	Clone git hub in power shell
 -	Rails new Assignment1
 -	Cd Assignment1
