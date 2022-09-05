@@ -3,14 +3,14 @@ my nanme is Esmael Ali , I used ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [
 
 Follow the following steps to run the Application
 -	Clone git hub in power shell
--	Rails new Assignment1
--	Cd Assignment1
+-	Rails new Assignment
+-	Cd Assignment
 -	Edit the line with tzinfo_data and gem “fif”
 -	Bundle install
 -	Cd .. 
--	Rails new Assignment1
+-	Rails new Assignment
 -	Answer no to both overwrite questions
--	Cd Assignment1
+-	Cd Assignment
 -	Rails generate scaffold people name:string  ID number:integer  email Address:string  phone number:integer  physical address:string
 -	Rails db:migrate
 -	Rails server
